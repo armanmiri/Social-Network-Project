@@ -9,3 +9,5 @@ Users can create, edit, and delete posts, fostering community engagement.
 Commenting functionality on posts, promoting user interaction.
 Real-time chat system, enabling direct communication between users.
 Data encryption techniques employed to safeguard user information and maintain platform integrity.
+
+Also includes the UI for this project written using the open source software QT Creator
